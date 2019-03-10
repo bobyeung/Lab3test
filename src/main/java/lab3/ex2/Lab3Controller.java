@@ -21,6 +21,7 @@ public class Lab3Controller {
     void buttonPressed(ActionEvent event) {
     	//label1.setText("Welcome to JavaFX");
     	label1.setText(textfield1.getText());
+    	System.out.println("wtf");
     }
 
 }
